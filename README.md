@@ -3,3 +3,5 @@
 You can find the datasets available on Kaggle: https://www.kaggle.com/datasets/ritupande/fire-detection-from-cctv/data
 
 This is the fire and smoke detection using Resnet-50 with the aim to detect the ignition of the fire.
+
+Steps to use it is initialize in the provided Jupyter Notebook.
